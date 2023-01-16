@@ -25,7 +25,7 @@ NOTE: There are custom Adobe Commerce features created which can enable/disable 
 
 3. Adobe Commerce <> Adobe Campaign API Integration
 
-IFB would like to send an email to customers through Adobe Campaign.
+Website owner would like to send an email to customers through Adobe Campaign.
 We have built an integration API to send the following data to Adobe Campaign from Adobe Commerce
 Abandoned Cart
 Notify In Stock
