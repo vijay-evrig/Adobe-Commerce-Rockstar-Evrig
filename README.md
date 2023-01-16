@@ -10,6 +10,8 @@ No. of Dealers associated 4000+.
 
 Whenever any order comes to the Adobe Commerce website, the Adobe Commerce website Order is sent to OMS through API Integration. After that OMS sends an order to one of the dealers. The dealer fulfills the order.
 
+![alt text](https://github.com/vijay-evrig/Adobe-Commerce-Rockstar-Evrig/blob/main/AdobeCommerce%20%3C%3E%204000%20Vendors%20Integration.png?raw=true)
+
 
 2. Physical Store <> Website Promotions Integration.
 
