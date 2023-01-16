@@ -20,6 +20,8 @@ No. of Physical Stores - 563+
 Customers directly go to a physical store and select their products to buy. Customers ask for any discounts or offers by comparing offerers on the website. Physical store’s POS connected to AdobeCommerce using API integrations. Physical store managers apply offers that are connected to the AdobeCommerce website
 NOTE: There are custom Adobe Commerce features created which can enable/disable each promotion to use for Physical Stores or not.
 
+![alt text](https://github.com/vijay-evrig/Adobe-Commerce-Rockstar-Evrig/blob/main/Visit%20Physical%20Store%20get%20Online%20Offers.png?raw=true)
+
 
 3. Adobe Commerce <> Adobe Campaign API Integration
 
@@ -27,5 +29,8 @@ IFB would like to send an email to customers through Adobe Campaign.
 We have built an integration API to send the following data to Adobe Campaign from Adobe Commerce
 Abandoned Cart
 Notify In Stock
+
+![alt text](https://github.com/vijay-evrig/Adobe-Commerce-Rockstar-Evrig/blob/main/Adobe%20Commerce%20%3C%3E%20Adobe%20Campaign%20Integration.png?raw=true)
+
 
 NOTE: Please find 3 images for graphical presentation of each integrations.
