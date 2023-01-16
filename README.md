@@ -25,3 +25,5 @@ IFB would like to send an email to customers through Adobe Campaign.
 We have built an integration API to send the following data to Adobe Campaign from Adobe Commerce
 Abandoned Cart
 Notify In Stock
+
+NOTE: Please find 3 images for graphical presentation of each integrations.
