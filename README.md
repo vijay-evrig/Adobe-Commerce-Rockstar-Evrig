@@ -1,6 +1,6 @@
 # Evrig's Submission for Adobe Commerce Rockstar
 
-At Evrig, we are working with one of the largest Electronics Appliances company in India. We are using Adobe Commerce Cloud for commerce capability. This website have 500+ Physical stores and 4000+ Delears, so Adobe Commerce website connected with both the medium using OMS.
+At Evrig, we are working with one of the largest Electronics Appliances company in India - https://www.ifbappliances.com/. We are using Adobe Commerce Cloud for commerce capability. This website have 500+ Physical stores and 4000+ Delears, so Adobe Commerce website connected with both the medium using OMS.
 
 We would like to showcase three important features.
 
